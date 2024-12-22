@@ -1,0 +1,2 @@
+# vectorization
+all important syntax
